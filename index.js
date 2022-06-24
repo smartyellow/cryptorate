@@ -28,7 +28,7 @@ module.exports = {
   vendor: 'Smart Yellow',
 
   // Array of plugins this plugin depends on
-  requires: [ ],
+  requires: [ 'webdesq/gui', 'smartyellow/charts' ],
 
   icon: icons.crypto,
 
